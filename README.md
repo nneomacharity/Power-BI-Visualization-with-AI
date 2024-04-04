@@ -3,7 +3,7 @@ The Lemonade Hub, a company renowned for its innovative products, stands at a cr
 
 As the flexible model began to find its footing in the market, its sales soared, reflecting a growing consumer preference for this new option. However, this seemingly positive trend was shadowed by a perplexing development: the company's profits began a steady decline. This financial downturn sparked concern among the management, leading them to question the efficacy of their existing costing system. The system that once served them well appeared to falter in the face of the company's evolving product line and market dynamics.
 
-The company's management, driven by a commitment to reverse the declining profit trend and ensure the sustainability of their operations, decided to delve into a comprehensive analysis of their past data. This decision underscored a pivotal shift in strategy, aiming to uncover the underlying causes of the profit slump. The goal was not merely to identify symptoms but to diagnose the root causes affecting the company's financial health.
+The company's management, driven by a commitment to reverse the declining profit trend and ensure the sustainability of their operations, decided to delve into a comprehensive analysis of their past data. This decision underscored a pivotal shift in strategy, aiming to uncover the underlying causes of the profit slump. The goal is not merely to identify symptoms but to diagnose the root causes affecting the company's financial health using Power BI.
 
 In embarking on this analytical journey, the company intends to achieve several key objectives:
 
